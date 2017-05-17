@@ -2,8 +2,8 @@
 Scanning for vulnerability in Microsoft SMBv1 servers (ms17-010)
 
 # requirements
-Vagrant
-VirtualBox
+- Vagrant
+- VirtualBox
 
 # how to
 - clone this repo
